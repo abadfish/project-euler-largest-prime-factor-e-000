@@ -1,5 +1,7 @@
 require 'bundler/setup'
 require 'pry'
+require 'prime'
+#require 'math'
 
 Bundler.require(:default)
 
